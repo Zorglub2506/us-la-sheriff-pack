@@ -20996,7 +20996,7 @@
         <Item>STD_ORACLE2_REAR_RIGHT</Item>
       </firstPersonDrivebyData>
     </Item>
-        <Item>
+    <Item>
       <modelName>sheriff</modelName>
       <txdName>sheriff</txdName>
       <handlingId>SHERIFF</handlingId>
@@ -26969,7 +26969,7 @@
         <Item>BICYCLE_BMX_FRONT</Item>
       </firstPersonDrivebyData>
     </Item>
-        <Item>
+    <Item>
       <modelName>policeb</modelName>
       <txdName>policeb</txdName>
       <handlingId>POLICEB</handlingId>
