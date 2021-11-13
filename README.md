@@ -1,4 +1,4 @@
-# us-sheriff-pack
+# Los Angeles Sheriff vehicle pack
 ******************************************
 Disclaimer
 ******************************************
